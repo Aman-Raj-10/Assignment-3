@@ -7,8 +7,9 @@ int main() {
     scanf("%d", &n);
 
     for (int i = 1; i <= n; i++) {
-        printf("Nishil Machchhar\n");
+        printf("Aman Raj\n");
     }
 
     return 0;
 }
+
