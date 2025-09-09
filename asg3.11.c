@@ -3,7 +3,8 @@
 int main() {
 
     for (int i = 1; i <= 5; i++) {
-        printf("Divy Joshi\n");
+        printf("Aman Raj\n");
     }
     return 0;
 }
+
